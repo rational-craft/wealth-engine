@@ -1,6 +1,6 @@
 # Wealth Engine
 
-A browser-based personal wealth forecasting app built with React, Vite and Tailwind CSS. It provides a minimal scaffold that runs automatically on StackBlitz and lets you model multiple scenarios to visualise projected net worth over time.
+A browser-based personal wealth forecasting app built with React, Vite and Tailwind CSS. The project runs automatically on StackBlitz and lets you model multiple investment scenarios to visualise projected net worth over time.
 
 ## Development
 
@@ -10,3 +10,9 @@ npm run dev
 ```
 
 Open `http://localhost:5173` in your browser.
+
+To generate a production build, run:
+
+```bash
+npm run build
+```
