@@ -10,7 +10,7 @@ npm install
 npm run dev
 ```
 
-Open `http://localhost:5173` in your browser.
+Open `http://localhost:5173` in your browser. The page reloads automatically when you edit source files.
 
 To generate a production build, run:
 
