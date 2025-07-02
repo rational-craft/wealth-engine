@@ -1,3 +1,4 @@
+ezlyke-codex/build-personal-wealth-forecasting-app-with-react-and-tailwin
 import React, { useState, useEffect } from 'react'
 import ScenarioToggle from './components/ScenarioToggle'
 import InputPanel from './components/InputPanel'
@@ -70,6 +71,12 @@ export default function App() {
           </div>
         </main>
       </div>
+
+export default function App() {
+  return (
+    <div className="h-full flex items-center justify-center">
+      <h1 className="text-4xl font-bold text-center">Hello from Wealth Engine</h1>
+main
     </div>
   )
 }
